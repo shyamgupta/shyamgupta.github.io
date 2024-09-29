@@ -1,4 +1,4 @@
-## Summary
+### Summary
 ---
 20+ years of success in leading teams and managing key projects to ensure delivery of best-in-class IT services,
 encompassing public cloud, enterprise applications, distributed/mainframe, and storage services. Successful in
