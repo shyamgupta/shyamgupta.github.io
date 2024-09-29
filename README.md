@@ -93,6 +93,7 @@ with Level-2 and Deskside support.
 ---
 - Managed Email and Chat Support for Dell consumers
 
-### Technical Support Associate, Wipro, Sep-2001 to Feb-2004, New Delhi, India
+### Technical Support Associate, Wipro, Sep-2001 to Feb-2004
+### New Delhi, India
 - Tech Support (voice) for Dell consumers
 
