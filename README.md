@@ -30,7 +30,7 @@ disruption.
 
 ## Education
 ---
-Bachelor of Engineering | Electronics & Communication | 2001 
+Bachelor of Engineering | Electronics & Communication | 2001 |  
 Sikkim Manipal Institute of Technology
 
 ## Work Experience
