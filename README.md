@@ -28,7 +28,7 @@ disruption.
 1. Google Cloud Digital Leader, 2022
 2. AWS Cloud Practitioner, 2022
 3. Advanced Certification in DevOps, IIIT Bangalore, 2023
-4. AWS AI Practiotioner, 2024
+4. AWS AI Practitioner, 2024
 
 ## Education
 ---
