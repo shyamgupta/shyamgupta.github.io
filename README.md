@@ -1,15 +1,17 @@
 ## Summary
 ---
-- 20+ years of experience in remote infrastructure management, public cloud and service delivery.
-- Leading teams and managing key projects to ensure delivery of best-in-class IT services,
-encompassing public cloud, enterprise applications, distributed/mainframe, and storage services.
-- Successful in transitioning the organizational workload to public cloud, along with a history of implementing IT service
-management/compliance processes, governance procedures, and reporting structure.
+- 20+ years of experience in remote infrastructure management, IT Service Delivery, public cloud, enterprise applications, distributed, mainframe, storage and service desk
 - Instrumental in tracking KPIs to monitor overall team progress, while streamlining business operations to drive continuous improvement.
 - Innate ability to administer budgets, allocate/utilize resources, and remediate potential issues to accomplish
 projects/initiatives within timelines and budgetary constraints.
 - Experience working with a cross-functional, geographically dispersed team and customer base.
 - Ability to learn, understand, and work with new and emerging technologies, methodologies, and solutions in the cloud/IT technology space.
+
+## Skills
+---
+- Service Management, Contract Management, Governance, IT Security and Compliance, Business Continuity, Global Delivery, SLA attainment.
+- Client Liaison, Client Relations, High-Level Relationship Management, Governance
+- Intelligent AIOps, DevOps, Plublic Cloud (AWS)
 
 ## Accomplishments
 ---
