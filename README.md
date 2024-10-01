@@ -11,7 +11,7 @@ projects/initiatives within timelines and budgetary constraints.
 ---
 - Service Management, Contract Management, Governance, IT Security and Compliance, Business Continuity, Global Delivery, SLA attainment.
 - Client Liaison, Client Relations, High-Level Relationship Management, Governance
-- AIOps, DevOps, Plublic Cloud (AWS)
+- AIOps, DevOps, Public Cloud (AWS)
 
 ## Accomplishments
 ---
